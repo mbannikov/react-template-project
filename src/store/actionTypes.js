@@ -1,0 +1,4 @@
+/** USERS **/
+export const USERS_LOADING = 'USERS_LOADING';
+export const USERS_LOADING_FAILED = 'USERS_LOADING_FAILED';
+export const USERS_LOADED = 'USERS_LOADED';
